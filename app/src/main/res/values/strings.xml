@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="movies_tittle" translatable="false">Movies Tittle</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="rating_dummy" translatable="false">7.5</string>
+    <string name="out_of_ten" translatable="false">/10</string>
+    <string name="genre_dummy" translatable="false">Action,Adventure, Comedy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="change_language">Change Language</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
+    <string name="director">Director :</string>
+    <string name="director_dummy" translatable="false">M Night Syamalan</string>
+    <string name="overview">Overview :</string>
+    <string name="lorem_ipsum" translatable="false">Lorem Ipsum Dolor set Amet</string>
+    <string name="original_language">Original Language :</string>
+    <string name="favorite">Favorite</string>
+</resources>

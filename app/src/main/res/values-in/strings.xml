@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="movies">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="director">Sutradara</string>
+    <string name="overview">Synopsis</string>
+    <string name="original_language">"Bahasa : "</string>
+    <string name="favorite">Favorit</string>
+</resources>
